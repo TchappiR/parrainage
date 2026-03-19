@@ -1,0 +1,81 @@
+ID,nom,prenom,classe,filière,niveau,nationalité,maghreb,années en france,filleul
+ETU-10001,Benali,Omar,1A,Informatique,1,Marocaine,TRUE,0,TRUE
+ETU-10002,Diallo,Fatou,1B,Génie Civil,1,Sénégalaise,FALSE,1,TRUE
+ETU-10003,Chen,Wei,2A,Mécanique,2,Chinoise,FALSE,0,TRUE
+ETU-10004,Traore,Amina,1C,Électronique,1,Ivoirienne,FALSE,0,TRUE
+ETU-10005,Kone,Youssef,2B,Finance,2,Ivoirienne,FALSE,1,TRUE
+ETU-10006,Nguyen,Mai,1A,Marketing,1,Vietnamienne,FALSE,0,TRUE
+ETU-10007,Zidane,Ali,2A,Informatique,2,Algérienne,TRUE,1,TRUE
+ETU-10008,Bouazizi,Amir,1B,Génie Civil,1,Tunisienne,TRUE,0,TRUE
+ETU-10009,Singh,Raj,2C,Mécanique,2,Indienne,FALSE,1,TRUE
+ETU-10010,Garcia,Maria,1A,Électronique,1,Espagnole,FALSE,0,TRUE
+ETU-10011,Muller,Hans,1B,Finance,1,Allemande,FALSE,0,TRUE
+ETU-10012,Fofana,Moussa,2A,Marketing,2,Sénégalaise,FALSE,1,TRUE
+ETU-10013,Mansouri,Karim,1A,Informatique,1,Algérienne,TRUE,0,TRUE
+ETU-10014,Diop,Awa,2B,Génie Civil,2,Sénégalaise,FALSE,1,TRUE
+ETU-10015,Wang,Li,1C,Mécanique,1,Chinoise,FALSE,0,TRUE
+ETU-10016,Keita,Ibrahim,2A,Électronique,2,Ivoirienne,FALSE,1,TRUE
+ETU-10017,Touré,Bintou,1A,Finance,1,Sénégalaise,FALSE,0,TRUE
+ETU-10018,Tran,Duc,2C,Marketing,2,Vietnamienne,FALSE,1,TRUE
+ETU-10019,Haddad,Nour,1B,Informatique,1,Marocaine,TRUE,0,TRUE
+ETU-10020,Ndiaye,Oumar,2A,Génie Civil,2,Sénégalaise,FALSE,1,TRUE
+ETU-20001,Martin,Lucas,3A,Informatique,3,Française,FALSE,20,FALSE
+ETU-20002,Bernard,Emma,4B,Génie Civil,4,Française,FALSE,22,FALSE
+ETU-20003,Thomas,Hugo,5A,Mécanique,5,Française,FALSE,23,FALSE
+ETU-20004,Petit,Chloé,3C,Électronique,3,Française,FALSE,21,FALSE
+ETU-20005,Robert,Nathan,4A,Finance,4,Française,FALSE,22,FALSE
+ETU-20006,Richard,Léa,5B,Marketing,5,Française,FALSE,24,FALSE
+ETU-20007,Durand,Arthur,3A,Informatique,3,Française,FALSE,21,FALSE
+ETU-20008,Dubois,Manon,4C,Génie Civil,4,Française,FALSE,22,FALSE
+ETU-20009,Moreau,Gabriel,5A,Mécanique,5,Française,FALSE,23,FALSE
+ETU-20010,Laurent,Camille,3B,Électronique,3,Française,FALSE,20,FALSE
+ETU-20011,Simon,Jules,4A,Finance,4,Française,FALSE,22,FALSE
+ETU-20012,Michel,Louise,5C,Marketing,5,Française,FALSE,24,FALSE
+ETU-20013,Lefebvre,Léo,3A,Informatique,3,Française,FALSE,21,FALSE
+ETU-20014,Leroy,Ambre,4B,Génie Civil,4,Française,FALSE,22,FALSE
+ETU-20015,Roux,Raphaël,5A,Mécanique,5,Française,FALSE,23,FALSE
+ETU-20016,David,Alice,3C,Électronique,3,Française,FALSE,20,FALSE
+ETU-20017,Bertrand,Maël,4A,Finance,4,Française,FALSE,22,FALSE
+ETU-20018,Morel,Juliette,5B,Marketing,5,Française,FALSE,24,FALSE
+ETU-20019,Fournier,Louis,3A,Informatique,3,Française,FALSE,21,FALSE
+ETU-20020,Girard,Anna,4C,Génie Civil,4,Française,FALSE,22,FALSE
+ETU-20021,Berrada,Mehdi,5A,Informatique,5,Marocaine,TRUE,4,FALSE
+ETU-20022,Gassama,Sadio,3B,Génie Civil,3,Sénégalaise,FALSE,3,FALSE
+ETU-20023,Liu,Hao,4A,Mécanique,4,Chinoise,FALSE,4,FALSE
+ETU-20024,Bamba,Koffi,5C,Électronique,5,Ivoirienne,FALSE,5,FALSE
+ETU-20025,Sylla,Mamadou,3A,Finance,3,Sénégalaise,FALSE,3,FALSE
+ETU-20026,Pham,Linh,4B,Marketing,4,Vietnamienne,FALSE,4,FALSE
+ETU-20027,Brahimi,Yassine,5A,Informatique,5,Algérienne,TRUE,5,FALSE
+ETU-20028,Trabelsi,Sami,3C,Génie Civil,3,Tunisienne,TRUE,2,FALSE
+ETU-20029,Patel,Neha,4A,Mécanique,4,Indienne,FALSE,3,FALSE
+ETU-20030,Lopez,Carlos,5B,Électronique,5,Espagnole,FALSE,4,FALSE
+ETU-20031,Weber,Julia,3A,Finance,3,Allemande,FALSE,2,FALSE
+ETU-20032,Fall,Cheikh,4C,Marketing,4,Sénégalaise,FALSE,4,FALSE
+ETU-20033,Amrani,Riad,5A,Informatique,5,Algérienne,TRUE,5,FALSE
+ETU-20034,Gueye,Sokhna,3B,Génie Civil,3,Sénégalaise,FALSE,2,FALSE
+ETU-20035,Zhang,Wei,4A,Mécanique,4,Chinoise,FALSE,3,FALSE
+ETU-20036,Kouadio,Aya,5C,Électronique,5,Ivoirienne,FALSE,5,FALSE
+ETU-20037,Sow,Aminata,3A,Finance,3,Sénégalaise,FALSE,2,FALSE
+ETU-20038,Hoang,Anh,4B,Marketing,4,Vietnamienne,FALSE,3,FALSE
+ETU-20039,ElFassi,Salma,5A,Informatique,5,Marocaine,TRUE,4,FALSE
+ETU-20040,Cisse,Aliou,3C,Génie Civil,3,Sénégalaise,FALSE,2,FALSE
+ETU-20041,Blanc,Thomas,4A,Informatique,4,Française,FALSE,22,FALSE
+ETU-20042,Garnier,Marie,5B,Génie Civil,5,Française,FALSE,23,FALSE
+ETU-20043,Faure,Julien,3A,Mécanique,3,Française,FALSE,21,FALSE
+ETU-20044,Rousseau,Sophie,4C,Électronique,4,Française,FALSE,22,FALSE
+ETU-20045,Blanc,Nicolas,5A,Finance,5,Française,FALSE,24,FALSE
+ETU-20046,Guerin,Céline,3B,Marketing,3,Française,FALSE,20,FALSE
+ETU-20047,Muller,Pierre,4A,Informatique,4,Française,FALSE,23,FALSE
+ETU-20048,Henry,Lucie,5C,Génie Civil,5,Française,FALSE,25,FALSE
+ETU-20049,Roussel,Antoine,3A,Mécanique,3,Française,FALSE,21,FALSE
+ETU-20050,Nicolas,Laura,4B,Électronique,4,Française,FALSE,22,FALSE
+ETU-20051,Perrin,Maxime,5A,Finance,5,Française,FALSE,24,FALSE
+ETU-20052,Mathieu,Elodie,3C,Marketing,3,Française,FALSE,21,FALSE
+ETU-20053,Clement,Benoit,4A,Informatique,4,Française,FALSE,22,FALSE
+ETU-20054,Gauthier,Marine,5B,Génie Civil,5,Française,FALSE,23,FALSE
+ETU-20055,Dumont,Romain,3A,Mécanique,3,Française,FALSE,20,FALSE
+ETU-20056,Lambert,Julie,4C,Électronique,4,Française,FALSE,22,FALSE
+ETU-20057,Fontaine,Kevin,5A,Finance,5,Française,FALSE,24,FALSE
+ETU-20058,Chevalier,Sarah,3B,Marketing,3,Française,FALSE,21,FALSE
+ETU-20059,Robin,Alexandre,4A,Informatique,4,Française,FALSE,23,FALSE
+ETU-20060,Masson,Claire,5C,Génie Civil,5,Française,FALSE,24,FALSE
